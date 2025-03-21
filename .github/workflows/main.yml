@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 18811762061 -p hubbab-noszyn -l 1011951 #课程id，默认为心理课的
+        run: python main.py -u 18811762061 -p hubbab-noszyn -l 1015351 #课程id，默认为心理课的
